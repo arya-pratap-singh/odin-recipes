@@ -1,0 +1,28 @@
+ body {
+        background-color: #7f7fff;
+      }
+      h1 {
+        font-size: 125px;
+        padding-left: 1050px;
+        padding-top: 100px;
+      }
+
+      img {
+        border: solid 20px;
+        padding: 50px;
+        height: 300px;
+        width: 300px;
+      }
+      .lef {
+        margin-top: 200px;
+        margin-left: 550px;
+        display: inline-block;
+      }
+      .mid {
+        margin-left: 200px;
+        display: inline-block;
+      }
+      .rig {
+        margin-left: 200px;
+        display: inline-block;
+      }
